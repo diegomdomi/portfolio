@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ebd713ef.css",
+    "main.js": "/portfolio/static/js/main.b59b566b.js",
+    "static/media/imgsurfing.png": "/portfolio/static/media/imgsurfing.a563c87c2f756488cf78.png",
+    "static/media/store.png": "/portfolio/static/media/store.33b42fad892c3dc96aff.png",
+    "static/media/oxygen.png": "/portfolio/static/media/oxygen.0e93817140992bb9fa7a.png",
+    "static/media/certificado-React.png": "/portfolio/static/media/certificado-React.94754d7bb5a3a394fd3f.png",
+    "static/media/CertificadoJavaScript.png": "/portfolio/static/media/CertificadoJavaScript.a36a05d25a052ca5ac31.png",
+    "static/media/certificadoDesarrolloWeb.png": "/portfolio/static/media/certificadoDesarrolloWeb.38c8dc83b873e34388e5.png",
+    "static/media/Certificado-UTN.png": "/portfolio/static/media/Certificado-UTN.9eea0bcaec159114c46d.png",
+    "static/media/hotelmiranda.png": "/portfolio/static/media/hotelmiranda.aaa3c7090505a67340c9.png",
+    "static/media/cv_DiegoDominguez.pdf": "/portfolio/static/media/cv_DiegoDominguez.e3a6820f2a3dd20a15fc.pdf",
+    "static/media/CertificadoDeFinalizacion_Aprende SCRUM.png": "/portfolio/static/media/CertificadoDeFinalizacion_Aprende SCRUM.40c359c82f28677b632b.png",
+    "static/media/perfil.png": "/portfolio/static/media/perfil.606ea74ff926129b0d7f.png",
+    "static/media/CertificadoDeFinalizacion_MySQL esencial.png": "/portfolio/static/media/CertificadoDeFinalizacion_MySQL esencial.0938c73410a3ef6a0f34.png",
+    "static/media/Diploma-Imagina.png": "/portfolio/static/media/Diploma-Imagina.9beab529ad5a86a8d24c.png",
+    "static/media/dashboard.png": "/portfolio/static/media/dashboard.b917bd29d0b4422ffc7e.png",
+    "static/media/db.png": "/portfolio/static/media/db.8cb61335aa0f9925c457.png",
+    "index.html": "/portfolio/index.html",
+    "main.ebd713ef.css.map": "/portfolio/static/css/main.ebd713ef.css.map",
+    "main.b59b566b.js.map": "/portfolio/static/js/main.b59b566b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebd713ef.css",
+    "static/js/main.b59b566b.js"
+  ]
+}
