@@ -1,5 +1,5 @@
 import React from 'react';
-import IMG1 from '../../assets/hotelmiranda.png';
+import IMG1 from '../../assets/mirandaFront.png';
 import IMG2 from '../../assets/db.png';
 import IMG3 from '../../assets/imgsurfing.png';
 import IMG4 from '../../assets/dashboard.png';
