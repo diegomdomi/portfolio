@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ece9b713.css",
-    "main.js": "/portfolio/static/js/main.515bbd7a.js",
+    "main.js": "/portfolio/static/js/main.e9eb1b09.js",
     "static/media/imgsurfing.png": "/portfolio/static/media/imgsurfing.a563c87c2f756488cf78.png",
     "static/media/mirandaFront.png": "/portfolio/static/media/mirandaFront.67476379f99000bc7cb6.png",
     "static/media/store.png": "/portfolio/static/media/store.33b42fad892c3dc96aff.png",
@@ -10,8 +10,8 @@
     "static/media/CertificadoJavaScript.png": "/portfolio/static/media/CertificadoJavaScript.a36a05d25a052ca5ac31.png",
     "static/media/certificadoDesarrolloWeb.png": "/portfolio/static/media/certificadoDesarrolloWeb.38c8dc83b873e34388e5.png",
     "static/media/Certificado-UTN.png": "/portfolio/static/media/Certificado-UTN.9eea0bcaec159114c46d.png",
-    "static/media/cv-DiegoDominguez.pdf": "/portfolio/static/media/cv-DiegoDominguez.7ab7390822a015c4b43f.pdf",
-    "static/media/cv_DiegoDominguez.pdf": "/portfolio/static/media/cv_DiegoDominguez.648e55c28f85a6dc2161.pdf",
+    "static/media/cv-DiegoDominguez.pdf": "/portfolio/static/media/cv-DiegoDominguez.710ef4e6bdb48046790f.pdf",
+    "static/media/cv_DiegoDominguez.pdf": "/portfolio/static/media/cv_DiegoDominguez.5929547d8f9bbb606e11.pdf",
     "static/media/CertificadoDeFinalizacion_Aprende SCRUM.png": "/portfolio/static/media/CertificadoDeFinalizacion_Aprende SCRUM.40c359c82f28677b632b.png",
     "static/media/perfil.png": "/portfolio/static/media/perfil.606ea74ff926129b0d7f.png",
     "static/media/CertificadoDeFinalizacion_MySQL esencial.png": "/portfolio/static/media/CertificadoDeFinalizacion_MySQL esencial.0938c73410a3ef6a0f34.png",
@@ -20,10 +20,10 @@
     "static/media/db.png": "/portfolio/static/media/db.8cb61335aa0f9925c457.png",
     "index.html": "/portfolio/index.html",
     "main.ece9b713.css.map": "/portfolio/static/css/main.ece9b713.css.map",
-    "main.515bbd7a.js.map": "/portfolio/static/js/main.515bbd7a.js.map"
+    "main.e9eb1b09.js.map": "/portfolio/static/js/main.e9eb1b09.js.map"
   },
   "entrypoints": [
     "static/css/main.ece9b713.css",
-    "static/js/main.515bbd7a.js"
+    "static/js/main.e9eb1b09.js"
   ]
 }
