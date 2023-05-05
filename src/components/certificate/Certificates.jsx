@@ -64,7 +64,7 @@ const Certificates = () => {
     },
   ];
   return (
-    <section id="testmonials">
+    <section id="certificates">
       <h5>My way to code! </h5>
       <h2>Certificates</h2>
       <Swiper 
